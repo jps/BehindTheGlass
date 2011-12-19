@@ -5,8 +5,18 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: ViewBag.Message %></h2>
+    <h3>
+    Sam Coveney 
+    </h3>
+
     <p>
-        To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+    Freelance Sound Engineer/Producer working in and around the Brighton area. Working with a range of different bands, from a number of varied genres and styles, as well as being engaged with live music, and in association with the community radio station, Radio Free Brighton.
     </p>
+    <p>
+    Recording, Editing, Mixing, Mastering and Live Sound.
+    </p>
+
+    <img src="<%:Url.Content("~/Content/images/Sam.png")%>" alt="photo of sam" />
+
+
 </asp:Content>

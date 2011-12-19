@@ -1,0 +1,7 @@
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\bin\BehindTheGlass.dll
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\bin\BehindTheGlass.pdb
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\bin\EntityFramework.dll
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\bin\EntityFramework.xml
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\obj\Debug\ResolveAssemblyReference.cache
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\obj\Debug\BehindTheGlass.dll
+C:\WebsiteProjects\BehindTheGlass\BehindTheGlass\BehindTheGlass\obj\Debug\BehindTheGlass.pdb

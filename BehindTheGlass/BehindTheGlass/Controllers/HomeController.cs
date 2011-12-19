@@ -10,10 +10,21 @@ namespace BehindTheGlass.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
-
             return View();
         }
+
+
+        public ActionResult Clients()
+        {
+            return View();
+        }
+
+
+        public ActionResult Live()
+        {
+            return View();
+        }
+
 
         public ActionResult About()
         {
