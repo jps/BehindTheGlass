@@ -5,9 +5,9 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <h3>
+    <h2>
     Sam Coveney 
-    </h3>
+    </h2>
 
     <p>
     Freelance Sound Engineer/Producer working in and around the Brighton area. Working with a range of different bands, from a number of varied genres and styles, as well as being engaged with live music, and in association with the community radio station, Radio Free Brighton.

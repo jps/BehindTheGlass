@@ -10,7 +10,7 @@
 
 
 
-<ul>
+<ul class="ClientList">
     <li>
 	    <h3>Black Bonds:</h3>
 	    <p>Black Bonds are a Four Piece band from Brighton. With melodic guitar riffs, heavy bass lines, classic drum beats and some explosive solos! Black Bonds really are one to watch out for.</p>
