@@ -69,11 +69,16 @@
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="Scripts\JScript1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\CMS.css" />
     <Content Include="Content\images\Logo.jpg" />
     <Content Include="Content\images\Sam.png" />
+    <Content Include="Content\images\SocialIcons\facebook.png" />
+    <Content Include="Content\images\SocialIcons\myspace.png" />
+    <Content Include="Content\images\SocialIcons\soundCloud.png" />
+    <Content Include="Content\images\SocialIcons\twitter.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />

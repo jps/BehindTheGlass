@@ -1,29 +1,94 @@
-﻿html,body{margin:0;padding:0}
-body{    font: 76% arial,sans-serif;    text-align:center;    background: #211F20;}
-p{    color: #FFFFFF;  }h2{       color: #FFFFFF;} h3{    color: #FFFFFF;} 
-a{color: Gray;}
+﻿html,body{margin:0;padding:0}
+
+body
+{
+    font: 76% arial,sans-serif;
+    text-align:center;
+    background: #211F20;
+}
+
+p
+{
+    color: #FFFFFF;  
+}
+
+h2
+{   
+    color: #FFFFFF;
+} 
+
+h3
+{
+    color: #FFFFFF;
+} 
+
+a{color: Gray;}
+
 div#header h1
 {
-}div#header{    height:110px;
+
+}
+
+div#header
+{
+    height:110px;
     line-height:80px;
     margin:0;
-    padding-left:10px;    color: #FFFFFF;    background-image: url('images/Logo.jpg');    background-repeat: no-repeat;    background-position: center;}div#topRight{    width: 250px;    float: right;    height: 110px;    background-image: url('images/Speaker.png');}li#MainMenu{    display: inline;    padding: 0 10px;}
-li#MainMenu ul{    padding: 0 10px;    display: inline;}
+    padding-left:10px;
+    color: #FFFFFF;
+    background-image: url('images/Logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div#topRight
+{
+    width: 250px;
+    float: right;
+    height: 110px;
+    background-image: url('images/Speaker.png');
+}
+
+li#MainMenu
+{
+    display: inline;
+    padding: 0 10px;
+}
+
+li#MainMenu ul
+{
+    padding: 0 10px;
+    display: inline;
+}
 
 .ClientList, .LiveList { list-style-type: none; }
 
 
 
-div#container{text-align:left}
-div#navigation{ padding:20px 0 0 0px;}
-div#extra{}
-div#footer{background:  #211F20;color: #FFF}
-div#footer p{margin:0;padding:5px 10px}
-div#container{width:800px;margin:0 auto}
-div#content{float:left;width:550px}
-div#navigation{float:right;width:230px}
-div#extra{float:right;clear:right;width:230px}
-div#footer{clear:both;width:100%}.MainMenuContainer { padding: 20px 10px; }.myButton {
+div#container{text-align:left}
+
+div#navigation{ padding:20px 0 0 0px;}
+
+div#extra{}
+
+div#footer{background:  #211F20;color: #FFF}
+
+div#footer p{margin:0;padding:5px 10px}
+
+div#container{width:800px;margin:0 auto}
+
+div#content{float:left;width:550px}
+
+div#navigation{float:right;width:230px}
+
+div#extra{float:right;clear:right;width:230px}
+
+div#footer{clear:both;width:100%}
+
+.MainMenuContainer { padding: 20px 10px; }
+
+
+.myButton {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
 	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
