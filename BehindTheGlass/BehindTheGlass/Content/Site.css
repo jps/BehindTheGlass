@@ -49,6 +49,7 @@ div#topRight
     background-image: url('images/Speaker.png');
 }
 
+
 li#MainMenu
 {
     display: inline;
@@ -57,13 +58,17 @@ li#MainMenu
 
 li#MainMenu ul
 {
+    white-space:nowrap;
     padding: 0 10px;
     display: inline;
 }
 
-.ClientList, .LiveList { list-style-type: none; }
-
-
+.ClientList, .LiveList  
+{
+    padding-left: 0; 
+    list-style-type: none;
+    -webkit-padding-start: 0px;
+}
 
 div#container{text-align:left}
 
@@ -114,3 +119,10 @@ div#footer{clear:both;width:100%}
 	position:relative;
 	top:1px;
 }
+
+.navimage 
+{
+    border: 0px;
+}
+
+
